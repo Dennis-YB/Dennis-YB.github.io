@@ -17,25 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我是吉林大学人工智能学院的2020级在读博士生，我的导师是陈贺昌副教授。我也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra。我硕士毕业于辽宁大连的 大连海事大学 信息科学技术学院。目前我已经发表 10+ 篇学术论文
+ <a href='https://scholar.google.com/citations?user=DMSevhgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+- 深度学习/机器学习
+- 医学数据挖掘
+- 计算机视觉
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2020.09 - 至今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 吉林大学 人工智能学院, 吉林长春, 博士 
+- *2022.10 - 至今*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 荷兰莱顿大学 医学中心, 荷兰莱顿, 联合培养博士
+- *2017.09 - 2020.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 大连海事大学 信息科学技术学院, 辽宁大连, 硕士
+- *2013.09 - 2017.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 沈阳理工大学 信息科学与工程学院, 辽宁沈阳, 学士
  
 <span class='anchor' id='-lwzl'></span>
 
