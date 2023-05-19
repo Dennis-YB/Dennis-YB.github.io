@@ -31,10 +31,10 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2020.09 -     至今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/JLU_logo.png" width="23pt"></a> 吉林大学, 人工智能学院, 吉林长春, 博士 
-- *2022.10 -     至今*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/LU_logo.png" width="20pt"></a> 莱顿大学, 医学中心, 荷兰莱顿, 联合培养博士
-- *2017.09 - 2020.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/DMU_logo.png" width="20pt"></a> 大连海事大学, 信息科学技术学院, 辽宁大连, 硕士
-- *2013.09 - 2017.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SYLU_logo.png" width="20pt"></a> 沈阳理工大学, 信息科学与工程学院, 辽宁沈阳, 学士
+- *2020.09 - 至今*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.png" width="23pt"></a> 吉林大学, 人工智能学院, 吉林长春, 博士 
+- *2022.10 - 至今*, <a href="https://www.universiteitleiden.nl/"><img class="svg" src="/images/LU_logo.png" width="20pt"></a> 莱顿大学, 医学中心, 荷兰莱顿, 联合培养博士
+- *2017.09 - 2020.07*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.png" width="20pt"></a> 大连海事大学, 信息科学技术学院, 辽宁大连, 硕士
+- *2013.09 - 2017.07*, <a href="https://www.sylu.edu.cn/"><img class="svg" src="/images/SYLU_logo.png" width="20pt"></a> 沈阳理工大学, 信息科学与工程学院, 辽宁沈阳, 学士
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -42,19 +42,18 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2023</div><img src='images/m3s.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
+-	`Bo Yu`, Hechang Chen, Chengyou Jia, Hongren Zhou, Lele Cong, Xiankai Li, Jianhui Zhuang, Xianling Cong. Multi-modality multi-scale cardiovascular disease subtypes classification using Raman image and medical history. *Expert Systems with Applications*, 2023, 224: 119965. (中科院SCI一区; IF:8.665)  
+[[网页]](https://doi.org/10.1016/j.eswa.2023.119965) [[预览]](https://arxiv.org/pdf/2304.09322.pdf)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/m3s.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
+-	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (中科院SCI一区; IF:4.291)  
 [[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
 
 </div>
