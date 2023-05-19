@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是吉林大学人工智能学院的2020级在读博士生，我的导师是陈贺昌副教授。我也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra。我硕士毕业于辽宁大连的 大连海事大学 信息科学技术学院。目前我已经发表 10+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=DMSevhgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我是吉林大学人工智能学院的2020级在读博士生，我的导师是陈贺昌副教授。我也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra。我硕士毕业于大连海事大学信息科学技术学院。目前我已经发表10+篇学术论文
+ <a href='https://scholar.google.com/citations?user=DMSevhgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=DMSevhgAAAAJ&hl"></a>。
 
 我的研究领域包括：
-- 深度学习/机器学习
+- 机器学习
+- 深度学习
 - 医学数据挖掘
 - 计算机视觉
   
