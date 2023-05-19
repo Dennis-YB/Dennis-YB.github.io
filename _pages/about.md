@@ -33,7 +33,7 @@ redirect_from:
 # 🎓 学历
 - *2020.09 -     至今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 吉林大学, 人工智能学院, 吉林长春, 博士 
 - *2022.10 -     至今*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 莱顿大学, 医学中心, 荷兰莱顿, 联合培养博士
-- *2017.09 - 2020.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 大连海事大学, 信息科学技术学院, 辽宁大连, 硕士
+- *2017.09 - 2020.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/DMU_logo.png" width="20pt"></a> 大连海事大学, 信息科学技术学院, 辽宁大连, 硕士
 - *2013.09 - 2017.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 沈阳理工大学, 信息科学与工程学院, 辽宁沈阳, 学士
  
 <span class='anchor' id='-lwzl'></span>
