@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是吉林大学人工智能学院的2020级在读博士生，我的导师是陈贺昌副教授。我也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra。我硕士毕业于大连海事大学信息科学技术学院。目前我已经发表10+篇学术论文
- <a href='https://scholar.google.com/citations?user=DMSevhgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+本人目前是吉林大学人工智能学院的2020级在读博士生，导师为陈贺昌副教授。本人同时也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra副教授。本人硕士毕业于大连海事大学信息科学技术学院。目前我已经发表了10+篇学术论文
+ # <a href='https://scholar.google.com/citations?user=DMSevhgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 机器学习
@@ -31,8 +31,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2020.09 - 至今*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.png" width="23pt"></a> 吉林大学, 人工智能学院, 吉林长春, 博士 
 - *2022.10 - 至今*, <a href="https://www.universiteitleiden.nl/"><img class="svg" src="/images/LU_logo.png" width="20pt"></a> 莱顿大学, 医学中心, 荷兰莱顿, 联合培养博士
+- *2020.09 - 至今*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.png" width="23pt"></a> 吉林大学, 人工智能学院, 吉林长春, 博士 
 - *2017.09 - 2020.07*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.png" width="20pt"></a> 大连海事大学, 信息科学技术学院, 辽宁大连, 硕士
 - *2013.09 - 2017.07*, <a href="https://www.sylu.edu.cn/"><img class="svg" src="/images/SYLU_logo.png" width="20pt"></a> 沈阳理工大学, 信息科学与工程学院, 辽宁沈阳, 学士
  
