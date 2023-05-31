@@ -58,15 +58,22 @@ redirect_from:
 </div>
 </div>
 
+-	Yue Wei, Hechang Chen, `Bo Yu`, Chengyou Jia, Xianling Cong, Lele Cong. Multi-scale sequential feature selection for disease classification using Raman spectroscopy data. *Computers in Biology and Medicine*. 2023, 107053. (通讯作者, 中科院SCI一区; IF:6.698)  
+[[网页]](https://doi.org/10.1016/j.compbiomed.2023.107053) [[预览]](https://www.sciencedirect.com/science/article/pii/S0010482523005188)
+
+
 -	Ying Zang, `Bo Yu`, Shuguang Zhao. Lightweight seatbelt detection algorithm for mobile device. *Multimedia Tools and Applications*. 2023, 1-15. (通讯作者, 中科院SCI四区; IF:2.577)  
 [[网页]](https://doi.org/10.1007/s11042-023-14555-2) [[预览]](https://link.springer.com/article/10.1007/s11042-023-14555-2)
+
+
+- Yifei Wang, Yu Zhao, `Bo Yu`. A Deep Learning Enhanced Graylevel Co-occurrence Matrix Approach for Cancer Classification Using Cytological Smears. *2023 6th International Conference on Computer Information Science and Artificial Intelligence (CISAI 2023)*. 2023, 1-5. (通讯作者, EI)
 
 
 - Qiwei Ji, `Bo Yu`, Zhiwei Yang, Hechang Chen. LAM: Lightweight Attention Module. *Knowledge Science, Engineering and Management: 15th International Conference, KSEM*. 2022, 485-497. (通讯作者, CCF C)  
 [[网页]](https://doi.org/10.1007/978-3-031-10986-7_39) [[预览]](https://link.springer.com/chapter/10.1007/978-3-031-10986-7_39)
 
 
-- Peng Yin, `Bo Yu`, Chengwei Jiang, Hechang Chen. Pyramid Tokens-to-Token Vision Transformer for Thyroid Pathology Image Classification. *2022 Eleventh International Conference on Image Processing Theory, Tools and Applications (IPTA)*. 2022, 1-6. (EI)
+- Peng Yin, `Bo Yu`, Chengwei Jiang, Hechang Chen. Pyramid Tokens-to-Token Vision Transformer for Thyroid Pathology Image Classification. *2022 Eleventh International Conference on Image Processing Theory, Tools and Applications (IPTA 2022)*. 2022, 1-6. (EI)
 [[网页]](10.1109/IPTA54936.2022.9784139) [[预览]](https://ieeexplore.ieee.org/abstract/document/9784139)
 
 
@@ -96,13 +103,18 @@ redirect_from:
 [[网页]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMwNDI2EhFqc2pnY3l5eTIwMjAxODAyMxoINndwMnBjeGw%3D) [[下载]](https://wenku.baidu.com/view/d7783b3a874769eae009581b6bd97f192279bfb3.html?_wkts_=1684537786494&bdQuery=%E6%94%B9%E8%BF%9BDeepLabv2%E7%9A%84%E5%AE%9E%E6%97%B6%E5%9B%BE%E5%83%8F%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2%E7%AE%97%E6%B3%95)  
 
 
-
 ### 专利
 ---
 - `于博`, 陈贺昌, 张昀珂, 周泓任, 丛乐乐, 丛宪玲. 组织病理学切片的亚型分类方法及装置、介质及终端. (公开号: CN114693662A)
 - 陈贺昌, `于博`, 周泓任, 丛乐乐, 丛宪玲. 目标对象的分类方法以及装置. (申请号: 202211726319.3)
 - 刘铁, 尹鹏, 陈贺昌, `于博`, 姜成威, 丛乐乐, 丛宪玲. 图像分类方法及装置、计算机可读存储介质及终端. (公开号: CN115457302A)
 - 吕中伟, 曲伸, 陈贺昌, 贾成友, 丛宪玲, `于博`, 鄢阳, 张俊峰, 杨哲健, 刘铁, 刘瑾, 刘凡新. 一种癌症风险预测方法、系统、设备及介质. (公开号: CN114678122A)
+<span class='anchor' id='-ryjx'></span>
+
+### 软著
+---
+- `于博`, 陈贺昌, 张昀珂, 周泓任, 丛乐乐, 丛宪玲. 数据和知识双驱动的组织病理学亚型分类系统V1.0. (登记号: 2022SR1612748)
+- 陈贺昌, `于博`, 周泓任, 丛乐乐, 丛宪玲. 融合拉曼光谱和病史数据的多模态多尺度心脏病亚型分类系统V1.0. (登记号: 2023SR0517795)
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
@@ -115,8 +127,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2022.08*, 第15届知识科学、工程管理国际会议 (KSEM 2022) , 新加坡, 在线汇报
-- *2021.08*, 第14届知识科学、工程管理国际会议 (KSEM 2021) , 日本东京, 在线汇报
+- *2022.08*, 第15届知识科学、工程管理国际会议 (KSEM 2022) , 新加坡, 作者参会
+- *2021.08*, 第14届知识科学、工程管理国际会议 (KSEM 2021) , 日本东京, 作者参会
 - *2021.07*, IJCAI-SAIA 青年精英学术会议, 中国上海, 受邀参会
 
 <span class='anchor' id='-gzsx'></span>
