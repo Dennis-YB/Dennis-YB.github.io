@@ -58,6 +58,14 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2023</div><img src='images/PyMLViT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Bo Yu`, Peng Yin, Hechang Chen, Yifei Wang, Yu Zhao, Xianling Cong, Jouke Dijkstra, Lele Cong. Pyramid Multi-Loss Vision Transformer for Thyroid Cancer Classification Using Cytological Smear. *Knowledge-Based Systems*. 2023. (中科院SCI一区; IF:8.139) 
+
+</div>
+</div>
+
 -	Yue Wei, Hechang Chen, `Bo Yu`, Chengyou Jia, Xianling Cong, Lele Cong. Multi-scale sequential feature selection for disease classification using Raman spectroscopy data. *Computers in Biology and Medicine*. 2023, 107053. (通讯作者, 中科院SCI一区; IF:6.698)  
 [[网页]](https://doi.org/10.1016/j.compbiomed.2023.107053) [[预览]](https://www.sciencedirect.com/science/article/pii/S0010482523005188)
 
