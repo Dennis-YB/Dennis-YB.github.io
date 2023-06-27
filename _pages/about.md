@@ -1,4 +1,4 @@
----
+![image](https://github.com/Dennis-YB/Dennis-YB.github.io/assets/33629530/e87c6ab6-9d2f-4e33-9491-5c7a78bd869f)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人目前是吉林大学人工智能学院的2020级在读博士生，导师为陈贺昌副教授。本人同时也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra副教授。本人硕士毕业于大连海事大学信息科学技术学院。目前我已经发表了10+篇学术论文。
+本人目前是吉林大学人工智能学院的2020级在读博士生，导师为陈贺昌副教授。本人同时也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra副教授。本人主要研究方向为医学数据挖掘。目前我已经发表了10+篇学术论文。
 
 我的研究领域包括：
 - 机器学习
 - 深度学习
-- 医学数据挖掘
+- 数据挖掘
 - 计算机视觉
   
 
@@ -61,7 +61,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2023</div><img src='images/PyMLViT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Bo Yu`, Peng Yin, Hechang Chen, Yifei Wang, Yu Zhao, Xianling Cong, Jouke Dijkstra, Lele Cong. Pyramid Multi-Loss Vision Transformer for Thyroid Cancer Classification Using Cytological Smear. *Knowledge-Based Systems*. 2023. (中科院SCI一区; IF:8.139) 
+-	`Bo Yu`, Peng Yin, Hechang Chen, Yifei Wang, Yu Zhao, Xianling Cong, Jouke Dijkstra, Lele Cong. Pyramid Multi-Loss Vision Transformer for Thyroid Cancer Classification Using Cytological Smear. *Knowledge-Based Systems*. 2023, 275: 110721. (中科院SCI一区; IF:8.139)
+[[网页]](https://doi.org/10.1016/j.knosys.2023.110721) [[预览]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123004719)
 
 </div>
 </div>
@@ -114,7 +115,7 @@ redirect_from:
 ### 专利
 ---
 - `于博`, 陈贺昌, 张昀珂, 周泓任, 丛乐乐, 丛宪玲. 组织病理学切片的亚型分类方法及装置、介质及终端. (公开号: CN114693662A)
-- 陈贺昌, `于博`, 周泓任, 丛乐乐, 丛宪玲. 目标对象的分类方法以及装置. (申请号: 202211726319.3)
+- 陈贺昌, `于博`, 周泓任, 丛乐乐, 丛宪玲. 目标对象的分类方法以及装置. (公开号: CN116229145A)
 - 刘铁, 尹鹏, 陈贺昌, `于博`, 姜成威, 丛乐乐, 丛宪玲. 图像分类方法及装置、计算机可读存储介质及终端. (公开号: CN115457302A)
 - 吕中伟, 曲伸, 陈贺昌, 贾成友, 丛宪玲, `于博`, 鄢阳, 张俊峰, 杨哲健, 刘铁, 刘瑾, 刘凡新. 一种癌症风险预测方法、系统、设备及介质. (公开号: CN114678122A)
 <span class='anchor' id='-ryjx'></span>
@@ -126,11 +127,17 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
+- *2023.06* 获得 2022年吉林大学人工智能学院学术业绩奖学金 `二等奖`
+- *2022.07* 获得 2022年国家建设高水平大学公派研究生奖学金
+- *2022.06* 获得 吉林大学研究生志愿者
+- *2022.05* 获得 2022年吉林大学人工智能学院`优秀共青团员`
 - *2021.12* 获得 2021年吉林省研究生科技论文演讲比赛 `二等奖`
+- *2020.11* 获得 吉林大学学业奖学金 `一等奖`
 - *2020.06* 获得 大连海事大学 `优秀硕士毕业生`
 - *2020.03* 获得 中国激光杂志社 `优秀论文`
 - *2019.12* 获得 大连海事大学学术创新 `优秀奖`
 - *2019.07* 获得 大连海事大学科技创新作品 `三等奖`
+- *2017.11* 获得 大连海事大学学业奖学金 `一等奖`
 
 <span class='anchor' id='-xshy'></span>
 
@@ -143,4 +150,4 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.08 - 2019.10*, 智慧视通（杭州）科技发展有限公司, 浙江杭州
-- *2018.06 - 2018.12*, 北京迪路科技有限公司, 北京
+- *2018.06 - 2018.12*, 北京迪路科技有限公司, 北京海淀
