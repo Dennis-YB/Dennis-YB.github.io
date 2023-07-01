@@ -29,7 +29,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 教育经历
 - *2022.10 - 至今*, <a href="https://www.universiteitleiden.nl/"><img class="svg" src="/images/LU_logo.png" width="20pt"></a> 莱顿大学, 医学中心, 荷兰莱顿, 联合培养博士
 - *2020.09 - 至今*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.png" width="23pt"></a> 吉林大学, 人工智能学院, 吉林长春, 博士 
 - *2017.09 - 2020.07*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.png" width="20pt"></a> 大连海事大学, 信息科学技术学院, 辽宁大连, 硕士
@@ -37,7 +37,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 科研成果
+# 📝 学术成果
 
 ### 英文论文
 ---
