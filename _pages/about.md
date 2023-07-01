@@ -37,9 +37,9 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 科研成果
 
-### 英文
+### 英文论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2023</div><img src='images/m3s.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,7 +95,7 @@ redirect_from:
 
 
 
-### 中文
+### 中文论文
 ---
 
 - `于博`, 张军军, 李春庚, 安居白. 图像语义分割辅助的车载激光点云道路提取方法. *自然资源遥感*. 2020, 32(1): 66-74. (北大核心期刊)  
@@ -120,7 +120,7 @@ redirect_from:
 - 吕中伟, 曲伸, 陈贺昌, 贾成友, 丛宪玲, `于博`, 鄢阳, 张俊峰, 杨哲健, 刘铁, 刘瑾, 刘凡新. 一种癌症风险预测方法、系统、设备及介质. (公开号: CN114678122A)
 <span class='anchor' id='-ryjx'></span>
 
-### 软著
+### 软件著作权
 ---
 - `于博`, 陈贺昌, 张昀珂, 周泓任, 丛乐乐, 丛宪玲. 数据和知识双驱动的组织病理学亚型分类系统V1.0. (登记号: 2022SR1612748)
 - 陈贺昌, `于博`, 周泓任, 丛乐乐, 丛宪玲. 融合拉曼光谱和病史数据的多模态多尺度心脏病亚型分类系统V1.0. (登记号: 2023SR0517795)
