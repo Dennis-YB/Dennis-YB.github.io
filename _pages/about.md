@@ -44,7 +44,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2023</div><img src='images/m3s.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Bo Yu`, Hechang Chen, Chengyou Jia, Hongren Zhou, Lele Cong, Xiankai Li, Jianhui Zhuang, Xianling Cong. Multi-modality multi-scale cardiovascular disease subtypes classification using Raman image and medical history. *Expert Systems with Applications*, 2023, 224: 119965. (中科院SCI一区; IF:8.665)  
+-	`Bo Yu`, Hechang Chen, Chengyou Jia, Hongren Zhou, Lele Cong, Xiankai Li, Jianhui Zhuang, Xianling Cong. Multi-modality multi-scale cardiovascular disease subtypes classification using Raman image and medical history. *Expert Systems with Applications*, 2023, 224: 119965. (中科院SCI一区; IF:8.5)  
 [[网页]](https://doi.org/10.1016/j.eswa.2023.119965) [[预览]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004670) [[下载]](https://arxiv.org/pdf/2304.09322.pdf)
 </div>
 </div>
@@ -52,7 +52,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2023</div><img src='images/D&K.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Bo Yu`, Hechang Chen, Yunke Zhang, Lele Cong, Shuchao Pang, Hongren Zhou, Ziye Wang, Xianling Cong. Data and knowledge co-driving for cancer subtype classification on multi-scale histopathological slides. *Knowledge-Based Systems*. 2023, 260: 110168. (中科院SCI一区; IF:8.139)  
+-	`Bo Yu`, Hechang Chen, Yunke Zhang, Lele Cong, Shuchao Pang, Hongren Zhou, Ziye Wang, Xianling Cong. Data and knowledge co-driving for cancer subtype classification on multi-scale histopathological slides. *Knowledge-Based Systems*. 2023, 260: 110168. (中科院SCI一区; IF:8.8)  
 [[网页]](https://doi.org/10.1016/j.knosys.2022.110168) [[预览]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012643) [[下载]](https://arxiv.org/pdf/2304.09314.pdf)
 
 </div>
@@ -61,17 +61,17 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2023</div><img src='images/PyMLViT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Bo Yu`, Peng Yin, Hechang Chen, Yifei Wang, Yu Zhao, Xianling Cong, Jouke Dijkstra, Lele Cong. Pyramid Multi-Loss Vision Transformer for Thyroid Cancer Classification Using Cytological Smear. *Knowledge-Based Systems*. 2023, 275: 110721. (中科院SCI一区; IF:8.139)
+-	`Bo Yu`, Peng Yin, Hechang Chen, Yifei Wang, Yu Zhao, Xianling Cong, Jouke Dijkstra, Lele Cong. Pyramid Multi-Loss Vision Transformer for Thyroid Cancer Classification Using Cytological Smear. *Knowledge-Based Systems*. 2023, 275: 110721. (中科院SCI一区; IF:8.8)
 [[网页]](https://doi.org/10.1016/j.knosys.2023.110721) [[预览]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123004719)
 
 </div>
 </div>
 
--	Yue Wei, Hechang Chen, `Bo Yu`, Chengyou Jia, Xianling Cong, Lele Cong. Multi-scale sequential feature selection for disease classification using Raman spectroscopy data. *Computers in Biology and Medicine*. 2023, 107053. (通讯作者, 中科院SCI一区; IF:6.698)  
+-	Yue Wei, Hechang Chen, `Bo Yu`, Chengyou Jia, Xianling Cong, Lele Cong. Multi-scale sequential feature selection for disease classification using Raman spectroscopy data. *Computers in Biology and Medicine*. 2023, 107053. (通讯作者, 中科院SCI一区; IF:7.7)  
 [[网页]](https://doi.org/10.1016/j.compbiomed.2023.107053) [[预览]](https://www.sciencedirect.com/science/article/pii/S0010482523005188)
 
 
--	Ying Zang, `Bo Yu`, Shuguang Zhao. Lightweight seatbelt detection algorithm for mobile device. *Multimedia Tools and Applications*. 2023, 1-15. (通讯作者, 中科院SCI四区; IF:2.577)  
+-	Ying Zang, `Bo Yu`, Shuguang Zhao. Lightweight seatbelt detection algorithm for mobile device. *Multimedia Tools and Applications*. 2023, 1-15. (通讯作者, 中科院SCI四区; IF:3.6)  
 [[网页]](https://doi.org/10.1007/s11042-023-14555-2) [[预览]](https://link.springer.com/article/10.1007/s11042-023-14555-2)
 
 
@@ -90,7 +90,7 @@ redirect_from:
 [[网页]](https://doi.org/10.1007/978-3-030-82136-4_4) [[预览]](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_4#chapter-info)
 
 
-- Ying Zang, `Bo Yu`, Longjiao Yu, Dongsheng Yang, Qingshan Liu. Far-Infrared Object Segmentation Focus on Transmission of Overall Semantic Information. *IEEE Access*. 2020, 8:182564-182579. (共同一作, 中科院SCI三区; IF:3.476)  
+- Ying Zang, `Bo Yu`, Longjiao Yu, Dongsheng Yang, Qingshan Liu. Far-Infrared Object Segmentation Focus on Transmission of Overall Semantic Information. *IEEE Access*. 2020, 8:182564-182579. (共同一作, 中科院SCI三区; IF:3.9)  
 [[网页]](10.1109/ACCESS.2020.3028656) [[预览]](https://ieeexplore.ieee.org/abstract/document/9212424) [[下载]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9212424)
 
 
