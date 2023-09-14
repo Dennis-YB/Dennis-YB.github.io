@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人目前是吉林大学人工智能学院的2020级在读博士生，导师为陈贺昌副教授。本人同时也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra副教授。本人主要研究方向为人工智能与医疗健康。目前我已经发表了10+篇学术论文。
+本人目前是吉林大学人工智能学院的2020级在读博士生，导师为陈贺昌副教授。本人同时也是荷兰莱顿大学医学中心的联合培养在读博士生，导师为Jouke Dijkstra副教授。本人主要研究方向为人工智能与医疗健康。目前我已经发表了15+篇学术论文。
 
 我的研究领域包括：
 - 机器学习
 - 深度学习
-- 医学数据挖掘
+- 数据挖掘
 - 计算机视觉
   
 
@@ -67,11 +67,13 @@ redirect_from:
 </div>
 </div>
 
--	Hongren Zhou, Hechang Chen, `Bo Yu`, Shuchao Pang, Xianling Cong, Lele Cong. An End-to-End Weakly Supervised Learning Framework for Cancer Subtype Classification using Histopathological Slides. *Expert Systems with Applications*. 2023. (通讯作者, 中科院SCI一区; IF:8.5)  
+-	Hongren Zhou, Hechang Chen, `Bo Yu`, Shuchao Pang, Xianling Cong, Lele Cong. An End-to-End Weakly Supervised Learning Framework for Cancer Subtype Classification using Histopathological Slides. *Expert Systems with Applications*. 2023, 121379. (通讯作者, 中科院SCI一区; IF:8.5)
+[[网页]](https://doi.org/10.1016/j.eswa.2023.121379) [[预览]](https://www.sciencedirect.com/science/article/abs/pii/S095741742301881X)
 
 -	Yue Wei, Hechang Chen, `Bo Yu`, Chengyou Jia, Xianling Cong, Lele Cong. Multi-scale sequential feature selection for disease classification using Raman spectroscopy data. *Computers in Biology and Medicine*. 2023, 107053. (通讯作者, 中科院SCI一区; IF:7.7)  
 [[网页]](https://doi.org/10.1016/j.compbiomed.2023.107053) [[预览]](https://www.sciencedirect.com/science/article/pii/S0010482523005188)
 
+- Tianyi Liu, Hechang Chen, Jifeng Hu, Zhejian Yang, `Bo Yu`, Xinqi Du, Yinxiao Miao, Yi Chang. Generalized Multi-Agent Competitive Reinforcement Learning with Differential Augmentation. *Expert Systems with Applications*. 2023. (中科院SCI一区; IF:8.5)
 
 -	Ying Zang, `Bo Yu`, Shuguang Zhao. Lightweight seatbelt detection algorithm for mobile device. *Multimedia Tools and Applications*. 2023, 1-15. (通讯作者, 中科院SCI四区; IF:3.6)  
 [[网页]](https://doi.org/10.1007/s11042-023-14555-2) [[预览]](https://link.springer.com/article/10.1007/s11042-023-14555-2)
