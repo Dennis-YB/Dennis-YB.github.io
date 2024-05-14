@@ -1,4 +1,4 @@
-![image](https://github.com/Dennis-YB/Dennis-YB.github.io/assets/33629530/e9db5ce2-ed5f-41fd-a692-eb6f90f18da1)---
+---
 permalink: /
 title: ""
 excerpt: ""
