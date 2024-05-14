@@ -1,4 +1,4 @@
----
+![image](https://github.com/Dennis-YB/Dennis-YB.github.io/assets/33629530/e9db5ce2-ed5f-41fd-a692-eb6f90f18da1)---
 permalink: /
 title: ""
 excerpt: ""
@@ -79,7 +79,7 @@ redirect_from:
 [[网页]](https://doi.org/10.1007/s11042-023-14555-2) [[预览]](https://link.springer.com/article/10.1007/s11042-023-14555-2)
 
 
-- Yifei Wang, Yu Zhao, `Bo Yu`. A Deep Learning Enhanced Graylevel Co-occurrence Matrix Approach for Cancer Classification Using Cytological Smears. *2023 6th International Conference on Computer Information Science and Artificial Intelligence (CISAI 2023)*. 2023, 1-5. (通讯作者, EI)
+- Yifei Wang, Yu Zhao, `Bo Yu`. A Deep Learning Enhanced Graylevel Co-occurrence Matrix Approach for Cancer Classification Using Cytological Smears. *2024 International Conference on Remote Sensing, Mapping and Image Processing (RSMIP 2024)*. 2024, 1-7. (通讯作者, EI)
 
 
 - Qiwei Ji, `Bo Yu`, Zhiwei Yang, Hechang Chen. LAM: Lightweight Attention Module. *Knowledge Science, Engineering and Management: 15th International Conference, KSEM*. 2022, 485-497. (通讯作者, CCF C)  
